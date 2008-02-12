@@ -1,0 +1,1 @@
+require 'arturaz/rss_helper.rb'
